@@ -1,0 +1,19 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f0f0f0; /* Color de fondo sugerido */
+}
+main {
+            margin-bottom: 80px; /* Ajusta este valor según el alto de tu footer */
+        }
+
+.caja {
+	width: 1124px;
+	position: relative;
+	margin: 0 auto;
+}
+button {
+	margin-top: 10px;
+}
+
+
+
